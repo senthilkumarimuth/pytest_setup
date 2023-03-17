@@ -1,6 +1,6 @@
 
 """
-Custom error demo
+Pytest demo
 
 """
 
